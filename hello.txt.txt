@@ -1,0 +1,4 @@
+Git is a system to keep track of code changes.  
+It helps developers work together on the same project.  
+You can save different versions of your work.  
+Git makes team work and coding more organized.
